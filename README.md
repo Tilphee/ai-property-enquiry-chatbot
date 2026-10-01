@@ -30,7 +30,7 @@ Chatbot  ->  Lead Capture & Qualification  ->  Property Viewing Booking
 ```
 
 - Lead scoring: (https://github.com/Tilphee/ai-real-estate-lead-qualification)
-- Viewing booking: Tilphee/ai-property-viewing-booking
+- Viewing booking: https://github.com/Tilphee/ai-property-viewing-booking
 
 The chatbot does not save leads or bookings on its own. It hands them to the other two workflows through webhooks, so form leads and chatbot leads follow the same rules.
 
