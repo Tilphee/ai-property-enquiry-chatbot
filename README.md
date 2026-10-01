@@ -1,4 +1,4 @@
-# ai-property-enquiry-chatbot
+
 # AI-Powered Property Enquiry Chatbot
 
 A Telegram chatbot for a real estate company. It answers property questions at any hour, recommends listings from a live Google Sheet, captures and scores the lead, and books the viewing, all inside one chat.
